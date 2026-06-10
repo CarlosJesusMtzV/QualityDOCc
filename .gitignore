@@ -1,0 +1,16 @@
+# Secretos
+.env
+
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs y temporales
+*.log
+storage/
